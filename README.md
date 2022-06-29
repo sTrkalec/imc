@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto está sob a licença MIT. Veja o arquivo para mais detalhes.
 
 ## Link
-Acesse: <a href="https://strkalec.github.io/copaDoMundo/" target="_blank">CLIQUE AQUI PARA CONFERIR</a>
+Acesse: <a href="https://strkalec.github.io/imc/" target="_blank">CLIQUE AQUI PARA CONFERIR</a>
 
 ---
 Feito com ♥ by Gabriel Miranda
