@@ -19,17 +19,17 @@ form.addEventListener('submit', function(event){
     }
 
     else if (peso >= 600 && altura >= 3.0){
-        setResultado("Ta tendando trolar o sistema truta?", false) 
+        setResultado("Você esta tendando trolar o sistema truta?", false) 
         return
     }
 
 
     else if (peso >= 598){
-        setResultado("Voce é tao pesado que pesou o sistema!", false) 
+        setResultado("Você é tão pesado que derrubou  o sistema!", false) 
         return
     }
     else if (altura >= 2.75){
-        setResultado("Impossível voce ter essa altura!", false) 
+        setResultado("Impossível você ter essa altura!", false) 
         return
     }
    
